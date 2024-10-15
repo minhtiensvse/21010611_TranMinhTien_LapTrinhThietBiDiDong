@@ -103,6 +103,13 @@ https://rapidapi.com/guides/fetch-api-react-native
 
  	
   #Steep 2
+  	O TRUONG
+   	down tren expo.dev. 
+    	sau do chay
+     	
+      	npm start
+
+       	npm install
   
     	npx expo install react-native-web react-dom @expo/metro-runtime
 
