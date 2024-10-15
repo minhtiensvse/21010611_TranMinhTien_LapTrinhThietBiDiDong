@@ -96,10 +96,18 @@ https://rapidapi.com/guides/fetch-api-react-native
 
  ## CÁCH RUN PROJECT
  	
-  #Steep 1	
-   	
+  #Steep 1	(OK CHAY O TRUONG)
+
+  	tai project tren expo.dev
+
+    	npm start
+     
     	npm install
    	Dùng để install thư viện
+
+    	npx expo install react-native-web react-dom @expo/metro-runtime
+
+     
 
  	
   #Steep 2
